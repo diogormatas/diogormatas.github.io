@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://diogormatas.github.io/sitemap.xml
